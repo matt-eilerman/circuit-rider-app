@@ -18,7 +18,7 @@ const App = () => {
 
   return (
     <View style={styles.sectionContainer}>
-      <Text style={styles.dummie}>Hello World!</Text>
+      <Text style={styles.dummie}>Jesus is the King!</Text>
     </View>
   )
 }
